@@ -1,0 +1,11 @@
+amount=2000
+if amount<1000:
+    discount=amount*0.5
+    print("Discount",discount)
+elif amount<5000:
+    discount=amount*0.10
+    print("Discount",discount)
+else:
+    discount=amount*0.15
+    print("Discount",discount)
+    print("Net payable:",amount-discount)
