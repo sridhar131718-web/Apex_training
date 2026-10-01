@@ -20,3 +20,14 @@ student2.marks = 89.4
 
 student1.display_details()
 student2.display_details()
+
+output:
+Student: 1
+Name: Sridhar
+Age: 20
+Marks: 85.5
+Student: 2
+Name: Hari
+Age: 19
+Marks: 89.4
+
